@@ -5,11 +5,28 @@ This is a term project for Sabanci University course DSA210 (Introduction to Dat
 Final Website / short video / report. (To ADD).
 ***
 ## Table of Contents
-1. [Motivation](#motivation)
+1. [Dataset and Project Plan](#dataset-and-project-plan)
+   - [Project Idea](#project-idea)
+   - [Project Plan](#project-plan)
+   - [Dataset Description](#dataset-description)
 
-2. [Project Details](#project-details)
+3. [Motivation](#motivation)
+
+4. [Project Details](#project-details)
    - [Important Information!](#important-information)
    - [Data Source](#data-source)
+   - [Data Analysis](#data-analysis)
+   - [Findings](#findings)
+   - [Limitations and Future Work](#limitations-and-future-work)
+***
+### Dataset and Project Plan
+This section outlines the dataset used, the concept behind the project, and the step-by-step plan for execution.
+
+### Project Idea
+
+### Project Plan
+
+### Dataset Description
 ***
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
@@ -20,7 +37,7 @@ The motivation behind this analysis is to uncover patterns and trends in my onli
 #### Important Information!
 This project utilizes techniques like Exploratory Data Analysis (EDA), data visualization, and machine learning models to uncover insights from my browsing history. While raw data remains private for privacy reasons, analysis scripts will be shared for transparency and reproducibility. A .gitignore file is used to keep the repository clean and organized, ensuring sensitive data is excluded.
 
-#### Data Source
+### Data Source
 The data for this project is sourced primarily from my browser history, collected through two methods:
 
 1. **History Trends Unlimited Extension**  
@@ -32,3 +49,9 @@ The data for this project is sourced primarily from my browser history, collecte
 To collect this data, I used the export functionality provided by the *History Trends Unlimited* extension, which generates a detailed dataset from my local history database. The default Chrome history system served as a reference for validating and supplementing this data. 
 
 These combined sources offer a rich dataset to analyze patterns and trends in my online activities while maintaining strict privacy by keeping all data stored locally.
+
+### Data Analysis
+
+### Findings
+
+### Limitations and Future Work
