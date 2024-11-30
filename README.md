@@ -20,13 +20,42 @@ Final Website / short video / report. (To ADD).
    - [Limitations and Future Work](#limitations-and-future-work)
 ***
 ### Dataset and Project Plan
-This section outlines the dataset used, the concept behind the project, and the step-by-step plan for execution.
+This section provides an overview of the project concept, outlines the plan for conducting a successful analysis, and includes a description of the dataset.
 
-### Project Idea
+#### Project Idea
+In today’s digital age, our online activities reflect a significant part of our daily lives, providing insights into our habits, interests, and priorities. This project aims to analyze my personal browser history to uncover patterns and trends that define my interaction with the digital world. By examining the websites I visit, the time spent online, and the frequency of my activity, the project seeks to understand how my online behavior reflects my broader lifestyle and interests. This analysis highlights the growing relevance of web history as a tool for self-reflection and behavioral understanding.
 
-### Project Plan
+#### Dataset Description
 
-### Dataset Description
+The dataset for this project consists of approximately 6 months of browsing history, spanning from **Monday, June 3, 2024**, to **Saturday, November 30, 2024**. It includes a total of **16,814 unique URLs** visited **65,841 times**. This comprehensive dataset captures detailed information about my online activity, providing a rich basis for analysis.
+
+#### Key Statistics:
+- **Daily Stats**:
+  - Average Visits Per Day: **369**
+  - Median Visits Per Day: **289**
+
+- **Top 5 Most Visited Domains**:
+  1. `sabanciuniv.edu`: **25,630 visits**
+  2. `google.com`: **18,073 visits**
+  3. `youtube.com`: **3,704 visits**
+  4. `chatgpt.com`: **1,268 visits**
+  5. `github.com`: **1,104 visits**
+
+#### Data Structure:
+The dataset was exported using the *History Trends Unlimited* extension, which generates a tab-delimited file with the following columns:
+- **URL**: The full address of the visited webpage (e.g., `http://example.com`).
+- **Host**: The hostname of the URL (e.g., `subdomain.example.com`).
+- **Domain**: The top-level domain of the URL (e.g., `example.com`).
+- **Visit Time (ms)**: Timestamp of the visit in milliseconds since January 1, 1970.
+- **Visit Time (string)**: Readable timestamp in the format `YYYY-MM-DD HH:MM:SS`.
+- **Day of Week**: Numerical representation of the weekday (Sunday=0, Monday=1, etc.).
+- **Transition Type**: Describes how the browser navigated to the URL (e.g., link, typed, reload).
+- **Page Title**: The title of the webpage visited.
+
+#### Insights Potential:
+This dataset provides a detailed lens to explore browsing trends, identify frequently visited websites, and analyze time-based activity patterns. A particular focus of this project is to observe how my online behavior changes during my college exam periods, offering insights into the impact of academic stress and deadlines on my digital habits.
+
+#### Project Plan
 ***
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
