@@ -56,6 +56,22 @@ The dataset was exported using the *History Trends Unlimited* extension, which g
 This dataset provides a detailed lens to explore browsing trends, identify frequently visited websites, and analyze time-based activity patterns. A particular focus of this project is to observe how my online behavior changes during my college exam periods, offering insights into the impact of academic stress and deadlines on my digital habits.
 
 #### Project Plan
+
+As a student, my web browsing patterns often mirror the highs and lows of academic life—late-night study sessions, frantic research before deadlines, or leisurely breaks exploring interests beyond coursework. The goal of this project is to dive deep into my browser history and uncover how my online behavior shifts during key academic periods like exams, assignments, and breaks.  
+
+To kick off the project, I conducted an initial round of **Exploratory Data Analysis (EDA)** to ensure the dataset meets expectations and provides enough depth for meaningful insights. This early step was crucial for confirming that my data is both accurate and rich enough to capture the essence of my digital habits as a student.  
+
+From here, the project will follow a structured, yet flexible plan:  
+1. **Data Visualization**  
+   Bringing the data to life through graphs and charts that tell the story of how my browsing habits evolve—whether it’s a spike in academic websites during finals week or a shift to entertainment sites during breaks.  
+
+2. **Pattern Analysis**  
+   Identifying hidden trends, like the times of day I’m most active online or how certain academic deadlines influence the types of websites I visit. This step will aim to answer how my online behavior reflects my priorities as a student.  
+
+3. **Machine Learning Models**  
+   Leveraging machine learning to explore deeper insights, like clustering my browsing patterns into "study mode," "relaxation mode," or "procrastination mode." The models might even predict when I’m entering a stressful academic period based on my web activity.
+
+This project isn’t just about analyzing data—it’s about understanding myself as a student in today’s digital age. By drawing connections between my academic life and online habits, I hope to create a blueprint for self-awareness, helping me (and potentially other students) make better use of time and digital resources during key academic periods.
 ***
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
