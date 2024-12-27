@@ -83,7 +83,7 @@ The motivation behind this analysis is to uncover patterns and trends in my onli
 This project utilizes techniques like Exploratory Data Analysis (EDA), data visualization, and machine learning models to uncover insights from my browsing history. While raw data remains private for privacy reasons, analysis scripts will be shared for transparency and reproducibility. A .gitignore file is used to keep the repository clean and organized, ensuring sensitive data is excluded.
 
 ### Data Source
-The data for this project is sourced primarily from my browser history, collected through two methods:
+The data for this project is sourced primarily from my browser history, collected through:
 
 1. **History Trends Unlimited Extension**  
    I use Google Chrome as my primary browser, and the majority of the data is gathered using the *History Trends Unlimited* extension. This extension syncs my browsing history to a local database, circumventing Chrome’s approximate 3-month history limit. The extension ensures data privacy by storing all history locally, without sharing it over a network. It allows me to export raw browsing data, providing a detailed record for analysis. Features like search filters further help refine the data for this project. For more information on this tool, visit the extension’s page [here](https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme).
