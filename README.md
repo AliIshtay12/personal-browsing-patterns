@@ -5,26 +5,21 @@ This is a term project for Sabanci University course DSA210 (Introduction to Dat
 For the final report see here. (TO ADD)
 ***
 ## Table of Contents
-1. [Dataset and Project Plan](#dataset-and-project-plan)
-   - [Project Idea](#project-idea)
-   - [Project Plan](#project-plan)
-   - [Dataset Description](#dataset-description)
+1. [Motivation](#motivation)
 
-3. [Motivation](#motivation)
+2. [Data Source](#data-source)
 
-4. [Project Details](#project-details)
-   - [Important Information!](#important-information)
-   - [Data Source](#data-source)
-   - [Data Analysis](#data-analysis)
-   - [Findings](#findings)
-   - [Limitations and Future Work](#limitations-and-future-work)
+3. [Data Analysis](#data-analysis)
+
+4. [Findings](#findings)
+
+5. [Limitations and Future Work](#limitations-and-future-work)
 ***
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
 
 The motivation behind this analysis is to uncover patterns and trends in my online activities. By examining the websites I visit and the frequency of my searches, I hope to gain a better understanding of my digital habits, interests, and how I allocate my time across various platforms.
 ***
-
 ### Data Source
 The data for this project is sourced primarily from my browser history, collected through:
 
@@ -34,9 +29,9 @@ The data for this project is sourced primarily from my browser history, collecte
 To collect this data, I used the export functionality provided by the *History Trends Unlimited* extension, which generates a detailed dataset from my local history database.
 
 This source offers a rich dataset to analyze patterns and trends in my online activities while maintaining strict privacy by keeping all data stored locally.
-
+***
 ### Data Analysis
-
+***
 ### Findings
-
+***
 ### Limitations and Future Work
