@@ -88,12 +88,9 @@ The data for this project is sourced primarily from my browser history, collecte
 1. **History Trends Unlimited Extension**  
    I use Google Chrome as my primary browser, and the majority of the data is gathered using the *History Trends Unlimited* extension. This extension syncs my browsing history to a local database, circumventing Chrome’s approximate 3-month history limit. The extension ensures data privacy by storing all history locally, without sharing it over a network. It allows me to export raw browsing data, providing a detailed record for analysis. Features like search filters further help refine the data for this project. For more information on this tool, visit the extension’s page [here](https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme).
 
-2. **Default Chrome History System**  
-   In addition to using the extension, I rely on Chrome’s native history system for recent browsing activities. Although it has limitations in terms of the time range and depth of data, it serves as a complementary source for quick insights and comparison.
+To collect this data, I used the export functionality provided by the *History Trends Unlimited* extension, which generates a detailed dataset from my local history database.
 
-To collect this data, I used the export functionality provided by the *History Trends Unlimited* extension, which generates a detailed dataset from my local history database. The default Chrome history system served as a reference for validating and supplementing this data. 
-
-These combined sources offer a rich dataset to analyze patterns and trends in my online activities while maintaining strict privacy by keeping all data stored locally.
+This source offers a rich dataset to analyze patterns and trends in my online activities while maintaining strict privacy by keeping all data stored locally.
 
 ### Data Analysis
 
