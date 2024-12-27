@@ -76,7 +76,7 @@ This project isn’t just about analyzing data—it’s about understanding myse
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
 
-The motivation behind this analysis is to uncover patterns and trends in my online activities. By examining the websites I visit, the time I spend online, and the frequency of my searches, I hope to gain a better understanding of my digital habits, interests, and how I allocate my time across various platforms.
+The motivation behind this analysis is to uncover patterns and trends in my online activities. By examining the websites I visit and the frequency of my searches, I hope to gain a better understanding of my digital habits, interests, and how I allocate my time across various platforms.
 ***
 ### Project Details
 #### Important Information!
