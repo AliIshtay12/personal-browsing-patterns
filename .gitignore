@@ -203,7 +203,7 @@ poetry.toml
 # ruff
 .ruff_cache/
 
-# Ignore only the rawdata.tsv file
+# Ignore only the rawdata.tsv which is inside raw file in data folder
 data/raw/rawdata.tsv
 
 # LSP config files
