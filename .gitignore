@@ -203,8 +203,8 @@ poetry.toml
 # ruff
 .ruff_cache/
 
-# Ignore only the rawdata.tsv which is inside raw file in data folder
-data/raw/rawdata.tsv
+# Ignore the data folder. 
+data/
 
 # LSP config files
 pyrightconfig.json
