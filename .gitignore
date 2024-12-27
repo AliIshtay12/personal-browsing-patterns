@@ -209,7 +209,3 @@ pyrightconfig.json
 
 # Ignore only the rawdata.tsv file
 data/raw/rawdata.tsv
-
-# Ensure the directories remain tracked
-!data/
-!data/raw/
