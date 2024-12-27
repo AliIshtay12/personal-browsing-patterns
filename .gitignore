@@ -206,10 +206,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# End of https://www.toptal.com/developers/gitignore/api/macos,python
+
 !data/
-!data/raw/
 
 
 #Raw data files
 data/raw/rawdata.tsv
-# End of https://www.toptal.com/developers/gitignore/api/macos,python
