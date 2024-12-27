@@ -203,9 +203,9 @@ poetry.toml
 # ruff
 .ruff_cache/
 
+# Ignore only the rawdata.tsv file
+data/raw/rawdata.tsv
+
 # LSP config files
 pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
-
-# Ignore only the rawdata.tsv file
-data/raw/rawdata.tsv
