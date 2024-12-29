@@ -18,7 +18,7 @@ This README file contains an overview of the project for the full analysis and p
 ### Motivation
 While brainstorming for a project idea, I realized that a significant part of my interaction with the world happens through my web browser. It serves as my gateway to knowledge, entertainment, and exploration. This sparked the idea to analyze my personal browsing history.
 
-The motivation behind this analysis is to uncover patterns and trends in my online activities. By examining the websites I visit and the frequency of my searches, I hope to gain a better understanding of my digital habits, interests, and how I allocate my time across various platforms.
+The motivation behind this analysis is to uncover patterns and trends in my online activities. By examining the websites I visit and the frequency of my searches, I hope to gain a better understanding of my digital habits, interests, and how I allocate my efforts across various platforms.
 ***
 ### Data Source
 The data for this project is sourced primarily from my browser history, collected through:
