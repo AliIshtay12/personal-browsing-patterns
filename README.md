@@ -2,7 +2,7 @@
 ## Description
 This is a term project for Sabanci University course DSA210 (Introduction to Data Science) Fall 2024 - 2025. This project dives into the patterns and behaviors hidden within my personal browser history, turning everyday clicks and searches into meaningful insights. It's an exploration of my digital habits, revealing trends and unlocking stories from my online journey.
 
-This README file contains an overview of the project for the full analysis and project details check the project report here.(TO ADD)
+This README file contains an overview of the project. For the full analysis and project details, check the [project report here](https://docs.google.com/document/d/1xa0wo7gSF7Dr0b5PIVhqm1TfehyOi1VOCgi99xjv-Fw/edit?usp=sharing).
 ***
 ## Table of Contents
 1. [Motivation](#motivation)
