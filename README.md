@@ -31,7 +31,39 @@ To collect this data, I used the export functionality provided by the *History T
 This source offers a rich dataset to analyze patterns and trends in my online activities while maintaining strict privacy by keeping all data stored locally.
 ***
 ### Data Analysis
+
+The **Data Analysis** section of the project combines Exploratory Data Analysis (EDA), hypothesis testing, and machine learning techniques to uncover meaningful insights about personal browsing patterns. It employs tools like **Pandas**, **Matplotlib**, and **scikit-learn** to analyze and visualize trends.
+
+#### Key Highlights:
+- **EDA**: Patterns in temporal behaviors (e.g., weekday vs. weekend activity), academic vs. non-academic activity, and browsing spikes were examined using descriptive statistics and visualizations.
+- **Hypothesis Testing**: Statistical tests like the Chi-Square test revealed significant relationships between academic cycles and browsing behavior.
+- **Machine Learning**: A Random Forest Classifier was trained to classify activities as academic or non-academic. While achieving moderate accuracy (78%), the model highlighted challenges with class imbalance, prompting opportunities for further refinement.
+
+This analysis not only demonstrates the alignment of digital habits with academic cycles but also provides a framework for improving productivity and understanding behavioral trends.
 ***
 ### Findings
+
+The **Findings** section reflects on insights gained from analyzing personal browsing data. It highlights how browsing patterns align with academic responsibilities and lifestyle habits. Key takeaways include:
+
+- **Academic vs. Non-Academic Behavior**: A clear increase in academic browsing during exam periods, while non-academic activity dominated weekends and breaks.
+- **Temporal Patterns**: Mornings and afternoons were found to be more productive, with a noticeable decline in academic activity during evenings and weekends.
+- **Machine Learning Insights**: The Random Forest model underscored the importance of temporal and academic period features in predicting activity types, though performance was limited by class imbalance.
+
+Overall, the findings provide a deeper understanding of digital habits, offering actionable insights to improve productivity and align online behaviors with academic goals.
+
 ***
 ### Limitations and Future Work
+
+The **Limitations and Future Work** section addresses areas for improvement and plans for extending the project's scope. Key points include:
+
+- **Limitations**:
+  - The machine learning model struggled with class imbalance, impacting prediction quality.
+  - Features like content type and browsing intent were not fully explored, leaving room for greater contextual understanding.
+  
+- **Future Directions**:
+  - Enhance features by integrating detailed content categorization (e.g., social media, streaming, academic).
+  - Experiment with advanced machine learning models like gradient boosting or neural networks for better performance.
+  - Collaborate with peers and advisors to gain new perspectives and refine methodologies.
+  - Expand the project’s applicability by creating a framework to help others analyze their digital habits.
+
+This project is a promising starting point for understanding digital behavior and its relationship with productivity, with exciting possibilities for future exploration and refinement.
