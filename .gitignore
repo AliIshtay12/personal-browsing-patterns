@@ -206,6 +206,9 @@ poetry.toml
 # Ignore the data folder. 
 data/
 
+#Ignore top_domains_reviews.csv
+top_domains_reviews.csv
+
 # LSP config files
 pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
